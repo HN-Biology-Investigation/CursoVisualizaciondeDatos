@@ -1,0 +1,76 @@
+---
+title: "Curso Visualizacion de datos con R"
+author: "David Murillo"
+format: html
+editor: visual
+---
+
+[<img src="HN Cursos publicidad/HN Biology Inv Circle.jpg" align="right" width="100"/>](https://www.hnbiology.org/)
+
+En el Curso de Visualización de Datos con R exploraremos las herramientas y técnicas necesarias para crear visualizaciones efectivas utilizando el lenguaje de programación R. A lo largo de este curso, aprenderás a utilizar paquetes populares como ggplot2 y plotly para crear gráficos estáticos e interactivos que te ayudarán a comunicar tus hallazgos de manera clara y efectiva.
+
+# Inscripciones
+
+<!-- Start Badges -->
+
+| [Whapsapp](http://wa.me/+50499549551) \| [Facebook](https://www.facebook.com/Hn.Biology.Investigation?mibextid=ZbWKwL) \| [email](admi@hnbiology.org) \| [website](https://www.hnbiology.org/) \|
+
+<!-- End Badges -->
+
+# Costos de Inscripción:
+
+-   Inversión en USD (Dólares estadounidenses): 30 USD.
+
+-   Inversión para hondureños: 700 Lempiras hondureños.
+
+# Métodos de Pago:
+
+-   Pago Internacional por [PayPal](https://www.paypal.com/paypalme/hnbiologyinv) .
+
+-   Pago para hondureños por Banco Atlántida, BANPAÍS y BAC Honduras: Por favor, solicita la información pertinente.
+
+-   Otras formas de pago:
+
+[MoneyGram](https://www.moneygram.com/mgo/us/es/send/como-enviar-dinero/enviar-en-linea/).
+
+[DineroExpress](https://www.dineroexpress.com/WebPortalDexDigital/)
+
+# Modalidades del Curso:
+
+-   Modalidad Asincrónica: Descripción: Tendrás acceso a nuestra plataforma educativa donde encontrarás tutoriales detallados para cada tema del curso. Además, tendrás acceso a todos los materiales y recursos necesarios para tu aprendizaje. Incluye tres asesorías individuales de una hora cada una con nuestros asesores.
+
+-   Modalidad en Vivo: Descripción: Durante el año, ofreceremos 3 o 4 cursos en vivo a través de la plataforma Zoom. Estos cursos serán impartidos en tiempo real y también tendrás acceso a la plataforma educativa con las grabaciones de cada clase y todos los recursos necesarios para tu aprendizaje.
+
+# Certificación:
+
+-  Al finalizar exitosamente el curso y completar las actividades asignadas, recibirás un certificado emitido por nuestra institución. Todas las actividades serán entregadas y revisadas por nuestros instructores para garantizar la calidad del aprendizaje y la validez del certificado.
+
+# Descripción del Curso:
+
+En este curso, nos sumergiremos en el mundo de la visualización de datos con R, explorando desde conceptos básicos hasta técnicas avanzadas. Aprenderás a utilizar paquetes como ggplot2 y plotly para crear una variedad de gráficos estáticos e interactivos. Además, exploraremos cómo personalizar y ajustar tus visualizaciones para que se adapten a tus necesidades específicas de análisis de datos. Al finalizar el curso, tendrás las habilidades necesarias para crear visualizaciones efectivas que te ayudarán a comunicar tus hallazgos de manera clara y convincente.
+
+# Temas que Cubriremos:
+
+[Introduccion a R y a la Visualización de Datos con R]().
+
+[Gráficos Estáticos con ggplot2]()
+
+[Gráficos Interactivos con plotly]()
+
+[Visualización de Datos Multivariados]()
+
+[Visualización de Modelos Estadísticos ]()
+
+[Gráficos Dinámicos con gganimate]()
+
+[Complementos a ggplot2]()
+
+# Metodología de Enseñanza:
+
+Nuestro enfoque educativo se basa en la práctica activa y el aprendizaje interactivo. A lo largo del curso, trabajarás en ejercicios prácticos y proyectos que te permitirán aplicar directamente lo que aprendas. Además, tendrás acceso a recursos complementarios y a un equipo de instructores dedicados que te brindarán apoyo individualizado cuando sea requerido.
+
+# Requisitos Previos:
+
+No Se requiere conocimiento previo, pero se recomienda haber completado el curso de [nivel básico](https://hn-biology-investigation.github.io/TemarioCursoAnalisisEstadisticoBasico/) o uno similar.
+
+![HN Biology Investigation Academy](HN%20Cursos%20publicidad/HN%20Biology%20Inv%20large.jpg)
